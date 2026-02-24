@@ -1,0 +1,19 @@
+{
+  "name": "Justin Casino",
+  "short_name": "Justin Casino",
+  "theme_color": "",
+  "background_color": "#13131F",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1771915043-favicon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

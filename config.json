@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#13131F",
+            "lang-select-color": "#222829",
+            "bg-light": "#13131F",
+            "welcome-bonus-bg": "#13131F",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#25253d",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#10101b",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#3c3c60",
+            "yellow-button": "#FFF614",
+            "button-text": "#ffffff",
+            "main-button-text": "#000000",
+            "border-color": "#efefdc",
+            "casino-cards": "#13131F",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#13131F",
+            "faq-label": "#13131F",
+            "bg-footer": "#13131F",
+            "copyright": "#e7e7d5",
+            "starColor": "#FFF614",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3434"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3436",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Justin Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3437",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Justin Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-gb-en-GB",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "GB",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Justin Casino",
+                    "title": "Justin Casino — Best UK Online Casino | 500 Free Spins",
+                    "description": "Play at Justin Casino UK — 6,900+ certified slots, 42 live dealer tables & up to 500 Free Spins bonus. UKGC licensed operator. Deposit from £10. Join today!\n",
+                    "canonical": "casinojustincasino-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3438",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinojustincasino-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3439"
+                },
+                "hero": {
+                    "title": "UK's Premier Online Casino & Slots Platform",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3440",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3441",
+                    "mobileImageSizeModifier": -3,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted online casino in the UK? We're fully licensed by the UK Gambling Commission (UKGC #039175-R-319452-024) and the Alderney Gambling Control Commission. With 6,900+ games, instant GBP deposits, and dedicated British support, here's what sets us apart:\n",
+                    "items": [
+                        "UKGC licensed (#039175-R-319452-024) & AGCC certified for UK players",
+                        "6,900+ games from Pragmatic Play, Evolution Gaming, NetEnt & more",
+                        "Win up to 500 Free Spins on Big Bass Splash — min £10 deposit",
+                        "Instant GBP deposits via PayPal, Skrill, Neteller & Debit Cards",
+                        "SSL 128-bit encryption protecting 100% of your transactions & data",
+                        "Slots, live casino, bingo & jackpots — all in one UK platform"
+                    ],
+                    "advantagesAfterText": "Join thousands of UK players enjoying certified fair-play gaming regulated by the UKGC. Our British-focused platform offers GBP-only transactions, responsible gaming tools, and a constantly growing library of premium titles.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Justin Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3442",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Justin Casino App",
+                    "mobileGooglePlayImageTitle": "Justin Casino App",
+                    "mobileIosImageTitle": "Justin Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Justin Casino UK",
+                        "description1": "We are Justin Casino — a fresh UK-focused online gaming platform by Jumpman Gaming Limited. Operating under UKGC licence #039175-R-319452-024, we deliver 6,900+ certified games to British players.\n",
+                        "items": [
+                            "Launched under Jumpman Gaming Limited in the UK",
+                            "Licensed by UKGC and Alderney Gambling Control Commission",
+                            "Partnered with Evolution Gaming for live dealer studios",
+                            "Expanded portfolio to 6,900+ games from 80+ providers"
+                        ],
+                        "description2": "We operate under UKGC #039175-R-319452-024 and AGCC licence with SSL 128-bit encryption securing all GBP transactions. Every game is tested for RNG fairness by independent certified auditors.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3443",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We keep expanding our game catalogue with new UK-favourite titles. Our responsible gaming tools — deposit limits, self-exclusion — protect every British player. Join us and experience premium gaming!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Game Portfolio for UK Players",
+                        "description": "<h2>Complete Game Portfolio for UK Players at Justin Casino<\/h2>\n\n<p>At Justin Casino, we offer an unrivalled gaming experience for British players, combining over 6,900 certified titles spanning slots, live casino tables, bingo rooms, jackpot games, and scratch cards — all accessible from a single, UKGC-licensed platform. Our library is powered by more than 80 world-class software providers including Pragmatic Play, Evolution Gaming, NetEnt, Microgaming, Hacksaw Gaming, Eyecon, Red Tiger, and Blueprint Gaming. Whether you're a casual slots fan or a seasoned live dealer enthusiast, our gaming hub delivers everything you need in one sleek, mobile-optimised interface.<\/p>\n\n<h3>Slots Collection — 764+ Titles for Every UK Player<\/h3>\n\n<p>Our slot machine collection is the cornerstone of the Justin Casino experience. With 764+ licensed slot games available, British players enjoy a remarkable variety of themes, mechanics, and volatility levels to suit every playing style. From classic 3-reel fruit machines to advanced Megaways engines and feature-rich video slots, we cater to all preferences. All slot titles are independently certified for Random Number Generator (RNG) fairness, ensuring every spin is genuinely random and unbiased. Betting flexibility is paramount — our slots accommodate everything from £0.10 micro-spins to £100 maximum bets per spin, making them perfect for both budget-conscious players and high-rollers alike.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Pragmatic Play Slots:<\/strong> Enjoy UK fan-favourites like Big Bass Splash, Sweet Bonanza, and The Dog House Megaways — titles known for high RTPs between 96.5% and 97.1% and thrilling bonus buy features. Pragmatic Play delivers consistent quality with engaging Free Spins mechanics and multiplier chains.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Hacksaw Gaming Titles:<\/strong> A top choice among UK millennial players, Hacksaw Gaming brings volatility-rich experiences such as Chaos Crew, Stick 'Em, and Wanted Dead or a Wild. These titles feature innovative cascading reels and max wins reaching up to 12,500x your stake.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>NetEnt Classics:<\/strong> The legendary Swedish developer contributes timeless titles including Starburst, Gonzo's Quest Megaways, and Dead or Alive 2. Starburst remains one of the most-played slots in UK history, offering re-spins and an RTP of 96.09%.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Blueprint Gaming Selection:<\/strong> Perfectly tailored for British audiences, Blueprint Gaming supplies branded UK titles based on popular TV shows and IPs. Their Jackpot King mechanic connects progressive jackpots across the network, giving UK players access to life-changing prize pools.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Eyecon Titles:<\/strong> A long-standing favourite in the British market, Eyecon specialises in narrative-driven slots with features like Fluffy Favourites and Temple of Isis. These games consistently attract UK players seeking immersive storytelling combined with accessible £0.10 minimum bets.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Megaways & Jackpot Games:<\/strong> We host an extensive Megaways library — a mechanic developed by Big Time Gaming that generates up to 117,649 ways to win per spin. Our jackpot section includes standalone and networked progressives from Red Tiger, Games Global (formerly Microgaming), and Blueprint, with prizes frequently exceeding six figures.<\/li>\n<\/ul>\n\n<h3>Live Casino — 42 Dealer Tables Powered by Evolution Gaming & Pragmatic Play<\/h3>\n\n<p>Our live casino section brings the authentic atmosphere of a British casino floor directly to your screen, with 42 professional dealer tables streamed in HD quality from certified studio environments. We partner with Evolution Gaming — the industry's gold standard — as well as Pragmatic Play Live, Playtech, and On Air Entertainment to deliver flawless live gaming performance 24\/7. UK players appreciate the convenience of enjoying classic table game experiences without ever leaving home, all while interacting with professional, English-speaking dealers in real time.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Roulette:<\/strong> We offer multiple roulette variants including European Roulette (RTP 97.3%), Immersive Roulette with slow-motion ball reveals, Speed Roulette for fast-paced British players, and Lightning Roulette featuring electrifying random multipliers of up to 500x. Betting limits accommodate both casual and high-stakes UK players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Blackjack:<\/strong> Our blackjack suite includes Classic Blackjack (RTP 99.5%), Infinite Blackjack with unlimited seating — perfect for busy British peak hours — and Lightning Blackjack with randomly assigned multipliers. All tables use professionally shuffled multi-deck shoes with real-time card verification.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Baccarat:<\/strong> British high-rollers favour our Speed Baccarat and Baccarat Squeeze tables, where the card reveal is drawn out for maximum suspense. Standard Baccarat carries an impressive 98.94% RTP on the Banker bet, making it one of the best-value casino games available to UK players.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Game Shows:<\/strong> Evolution Gaming's Crazy Time, Monopoly Live, Mega Ball, and Dream Catcher are hugely popular among UK audiences seeking entertainment fused with real money wagering. Crazy Time's bonus rounds can deliver multipliers of up to 20,000x, making every spin genuinely exciting.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Live Poker & Speciality Tables:<\/strong> From Three Card Poker and Caribbean Stud (complete with a progressive jackpot side bet) to Casino Hold'em and Texas Hold'em Bonus, our poker offering delivers competitive RTP values and professional dealer interaction throughout each hand.<\/li>\n<\/ul>\n\n<h3>Bingo, Jackpots & Scratch Cards — More Ways to Win at Justin Casino<\/h3>\n\n<p>Beyond slots and live casino, our platform provides British players with a dedicated bingo section — a format deeply embedded in UK gaming culture. We offer a free bingo room for regular players, making it accessible without financial risk. Jackpot games represent another thrilling avenue, with progressive prize pools connected across the Jumpman Gaming network. Scratch cards provide instant-win entertainment suitable for mobile gameplay during commutes or leisure time, with tickets available from just £0.10 per play.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Free Bingo Room:<\/strong> Regular UK players at Justin Casino enjoy complimentary access to our free bingo room — a beloved British tradition now fully digitised. No deposit is required for qualifying players, simply maintain active account status and join the room at scheduled game times.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Progressive Jackpots:<\/strong> Our jackpot catalogue includes networked progressive games from Blueprint Gaming's Jackpot King series and Red Tiger's Daily Jackpot range. UK players stand a chance at life-altering prizes from stakes as low as £0.10, with jackpots seeding at substantial five-figure sums.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Instant Win & Scratch Cards:<\/strong> Designed for British players who want quick results, our scratch card games deliver instant outcomes without waiting for spinning reels. Multiple themes and prize tiers are available, with top prizes ranging from £1,000 to six-figure sums depending on the title.<\/li>\n<\/ul>\n\n<h3>Mobile Gaming — Full Justin Casino Experience on Any UK Device<\/h3>\n\n<p>Every game in our portfolio is fully optimised for mobile gameplay, enabling UK players to enjoy their favourite slots, live tables, and bingo rooms from any smartphone or tablet. We've built our platform on a responsive web design framework compatible with iOS Safari and Android Chrome — no app download required. Mobile performance is tested across 4G and Wi-Fi connections to ensure smooth, lag-free streaming for live casino tables. British players commuting on the Tube or relaxing at home will find the same complete gaming experience available on desktop and mobile, with all GBP payment methods accessible directly from mobile browsers.<\/p>\n\n<h3>Responsible Gaming at Justin Casino UK<\/h3>\n\n<p>As a UKGC-licensed operator, we are fully committed to responsible gaming standards mandated by the UK Gambling Commission. British players have access to a comprehensive suite of player protection tools built directly into their account dashboard. We also maintain active partnerships with leading UK responsible gambling organisations to provide independent support whenever needed.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Deposit Limits:<\/strong> Set daily, weekly, or monthly deposit caps directly within your account settings. Limits take effect immediately when reduced, offering instant protection for British players managing their gambling budget responsibly.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Self-Exclusion:<\/strong> UK players can initiate self-exclusion periods of 6 months to 5 years, or opt for permanent self-exclusion via our responsible gaming dashboard. We are also registered with GAMSTOP — the UK's national self-exclusion scheme — ensuring cross-operator blocking protection.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reality Checks & Session Limits:<\/strong> Customisable time alerts notify you at regular intervals during gameplay. Session limits restrict total play time per day, preventing extended gaming sessions common among at-risk players in the UK market.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Support Organisations:<\/strong> We provide direct links and signposting to BeGambleAware, GamCare, and Gambling Therapy — all established UK charities offering free, confidential support to British players experiencing gambling-related difficulties.<\/li>\n<\/ul>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking & Bonuses for UK Players",
+                        "description": "<h2>Banking Methods & Bonus Offers for UK Players at Justin Casino<\/h2>\n\n<p>At Justin Casino, we make every financial transaction as smooth and secure as possible for our British players. All deposits and withdrawals are processed exclusively in GBP — eliminating any currency conversion fees that can erode your gaming budget. We support six leading UK payment methods, from trusted debit cards to digital e-wallets and mobile payment solutions. Our platform is built on SSL 128-bit encryption technology, ensuring that every transaction — regardless of the payment method — is protected against third-party interception and fraud. With a minimum deposit of just £10, getting started at our UK gambling platform is straightforward and accessible for all British players.<\/p>\n\n<h3>Deposit Methods Available to UK Players<\/h3>\n\n<p>We accept all major UK-preferred payment methods, offering instant deposits with zero additional fees on most options. British players can fund their accounts using debit cards — the most widely used payment method in the United Kingdom — as well as leading e-wallets and prepaid vouchers. All payment instruments must be registered in the same name as the Justin Casino account holder, in compliance with UKGC anti-money laundering requirements. Pay by Mobile is also supported, allowing convenient billing to a UK phone number for deposits up to £40 per transaction.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Visa & Mastercard Debit Cards:<\/strong> The most popular choice among UK players, Visa and Mastercard debit cards enable instant deposits from £10 to £1,000 per transaction with no fees. Withdrawals typically process within 1-3 business days and return directly to the originating UK bank account. Credit card gambling is prohibited in the UK, so only debit cards are accepted.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>PayPal:<\/strong> One of the UK's most trusted payment platforms, PayPal delivers instant deposits and fast withdrawals within 24 hours. The £10 minimum and £1,000 maximum deposit range makes it ideal for most British players. PayPal also provides an additional layer of account security — your bank details are never shared directly with the casino.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Skrill & Neteller:<\/strong> These international e-wallets are well-established in the British online gaming market, offering instant deposits from £10 with withdrawal processing up to 24 hours. Both platforms are regulated by the UK's Financial Conduct Authority (FCA), providing British players additional consumer protection confidence.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Paysafecard:<\/strong> The UK's favourite prepaid voucher solution enables anonymous deposits from £10 to £200 without a linked bank account or e-wallet. Paysafecard is widely available at convenience stores and petrol stations across Britain, making it accessible even for players without traditional banking access.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Pay by Mobile:<\/strong> A uniquely convenient option for British smartphone users, Pay by Mobile charges gambling deposits directly to your UK mobile phone bill or deducts from your prepaid credit. Transactions process instantly for deposits from £10 to £40. Please note a small service fee may apply depending on your UK mobile carrier.<\/li>\n<\/ul>\n\n<h3>Payment Methods at Justin Casino — Overview<\/h3>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #ffe600;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Deposit<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #000000; font-weight: bold;\">Withdrawal<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #14131d;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Visa\/MC<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">1-3 days<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1d1b28;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>PayPal<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Up to 24h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #14131d;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Skrill<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Up to 24h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1d1b28;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Up to 24h<\/td>\n    <\/tr>\n    <tr style=\"background-color: #14131d;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Paysafecard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">N\/A<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1d1b28;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Pay by Mobile<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">N\/A<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Welcome Bonus & Free Spins Offer for New UK Players<\/h3>\n\n<p>Our welcome offer rewards new British players with one of the most exciting entry bonuses in the UK market. Upon making your first deposit of just £10 or more, you become eligible to win up to 500 Free Spins on Big Bass Splash — one of Pragmatic Play's most beloved UK titles. The reward is delivered via a bonus spin wheel mechanic, adding an additional layer of excitement to your very first deposit. The maximum bonus conversion to real funds equals your lifetime deposits, capped at £250. Please note: new players only, minimum £10 fund, maximum bonus £200, 65x wagering requirements apply — full T&Cs are available on our promotions page.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Win Up to 500 Free Spins:<\/strong> Spin the bonus wheel after your qualifying first deposit to reveal your Free Spins award. The wheel mechanic ensures every eligible UK player has a chance to win the top prize of 500 Free Spins, creating genuine excitement from your very first session at Justin Casino.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Up to 1000% Bonus Match:<\/strong> Our headline promotion offers a percentage match bonus on your first deposit, scaling up to an extraordinary 1000% match — one of the largest percentage bonuses available to UK players across licensed operators. This amplifies your initial bankroll dramatically, maximising your gameplay time from day one.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Turbo Reel Promotion:<\/strong> Regular UK players can access the Turbo Reel bonus, where a £100 deposit unlocks an additional spin wheel awarding between 50 and 500 Free Spins. This recurring promotion rewards loyal British players with ongoing bonus opportunities beyond the initial welcome offer.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>No Deposit Offers:<\/strong> We regularly provide no deposit bonus opportunities to qualifying British players — ideal for exploring new game titles or returning to favourite slots without financial commitment. Check our promotions page regularly for the latest no deposit deals exclusive to UK accounts.<\/li>\n<\/ul>\n\n<h3>Withdrawals & KYC Verification for UK Players<\/h3>\n\n<p>Withdrawing your winnings at Justin Casino is straightforward, subject to standard UKGC-mandated identity verification (KYC — Know Your Customer) procedures. UK players should complete their KYC documentation early — typically within 1-2 days — to avoid delays when requesting their first withdrawal. We accept standard UK identity documents including a valid passport, UK driving licence, or recent utility bill as proof of address. Once verified, withdrawals are processed promptly to your chosen GBP payment method, with e-wallet cashouts (PayPal, Skrill, Neteller) completing within 24 hours and debit card withdrawals arriving within 1-3 business days. All withdrawals carry a £10 minimum threshold, ensuring accessibility for British players across all bankroll sizes.<\/p>\n\n<h3>Security, Licensing & Player Protection at Justin Casino UK<\/h3>\n\n<p>Our platform operates under a dual-licence framework combining UK Gambling Commission (UKGC) authorisation (#039175-R-319452-024) with Alderney Gambling Control Commission (AGCC) certification — one of the most respected regulatory bodies in the global gambling industry. This dual compliance structure provides British players with comprehensive legal protection, fair play guarantees, and access to independent dispute resolution services. Our SSL 128-bit encryption technology safeguards all personal data and financial transactions processed on the platform. As a Jumpman Gaming Limited operation, we inherit over a decade of regulated UK gambling expertise from one of Britain's most experienced casino network operators, with a proven track record of regulatory compliance and player satisfaction across multiple licensed brands.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>UKGC Licence #039175-R-319452-024:<\/strong> This licence authorises Justin Casino to legally offer real money gambling services to British players. The UKGC is widely regarded as the world's most rigorous gambling regulator, requiring operators to meet strict standards on player protection, anti-money laundering, and advertising compliance.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>AGCC (Alderney Gambling Control Commission):<\/strong> As a secondary regulatory body, the AGCC independently audits our operational procedures, game fairness, and financial solvency. British players benefit from an additional layer of independent regulatory oversight beyond the already rigorous UKGC framework.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>GAMSTOP Integration:<\/strong> We are registered with GAMSTOP — the UK's free national online self-exclusion programme. British players who self-exclude via GAMSTOP are automatically blocked from accessing Justin Casino and all other GAMSTOP-registered UK operators simultaneously.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Anti-Fraud & AML Procedures:<\/strong> All transactions are monitored by automated anti-fraud systems compliant with UK Money Laundering Regulations. Suspicious activity triggers immediate review by our UKGC-trained compliance team, protecting both individual UK players and the integrity of the platform.<\/li>\n<\/ul>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Is Justin Casino licensed and safe for UK players?",
+                            "answer": "Yes, Justin Casino is fully licensed by the UK Gambling Commission (UKGC #039175-R-319452-024) and the Alderney Gambling Control Commission. We use SSL 128-bit encryption to protect all transactions. All games are certified for RNG fairness by independent auditors, making us a trusted, regulated UK operator.\n"
+                        },
+                        {
+                            "title": "What welcome bonus do new UK players receive?",
+                            "answer": "New UK players can win up to 500 Free Spins on Big Bass Splash by depositing a minimum of £10. A bonus wheel spin reveals your exact reward. Maximum bonus is £200 with 65x wagering requirement. Max conversion to real funds equals lifetime deposits up to £250. Full T&Cs apply.\n"
+                        },
+                        {
+                            "title": "What payment methods does Justin Casino accept?",
+                            "answer": "We accept Visa, Mastercard, PayPal, Skrill, Neteller, Paysafecard, and Pay by Mobile. All deposits and withdrawals are processed in GBP only. Minimum deposit is £10. E-wallet withdrawals complete within 24 hours; debit card withdrawals take 1-3 business days with a £10 minimum.\n"
+                        },
+                        {
+                            "title": "How long do withdrawals take at Justin Casino?",
+                            "answer": "Withdrawal times depend on your chosen payment method. PayPal, Skrill, and Neteller process within 24 hours. Visa and Mastercard debit card withdrawals take 1-3 business days. All withdrawals require completed KYC verification, which typically takes 1-2 days for UK players.\n"
+                        },
+                        {
+                            "title": "How many games are available at Justin Casino?",
+                            "answer": "Justin Casino offers 6,900+ certified games including 764+ slots, 42 live dealer tables, bingo rooms, jackpot games, and scratch cards. Games come from 80+ providers including Pragmatic Play, Evolution Gaming, NetEnt, Hacksaw Gaming, Microgaming, Blueprint Gaming, and more.\n"
+                        },
+                        {
+                            "title": "Can I play Justin Casino on my mobile phone?",
+                            "answer": "Yes, Justin Casino is fully mobile-optimised for iOS and Android devices. No app download is required — simply access our site via your mobile browser for the complete gaming experience including slots, live dealer tables, and bingo. All GBP payment methods work seamlessly on mobile.\n"
+                        },
+                        {
+                            "title": "Does Justin Casino offer responsible gambling tools?",
+                            "answer": "Yes, we provide full UKGC-compliant responsible gambling tools including deposit limits, session limits, reality checks, and self-exclusion options. We are registered with GAMSTOP for cross-operator self-exclusion. Links to BeGambleAware and GamCare are available throughout the site.\n"
+                        },
+                        {
+                            "title": "Who owns and operates Justin Casino in the UK?",
+                            "answer": "Justin Casino is owned and operated by Jumpman Gaming Limited — one of the UK's most experienced licensed casino network operators. Jumpman Gaming holds a valid UKGC licence and manages multiple regulated British casino brands, bringing proven expertise and regulatory compliance to every platform.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
